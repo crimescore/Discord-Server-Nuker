@@ -1,3 +1,3 @@
 This file is a Discord Nuke Bot.
-**Instructions**<br>
+<br>**Instructions**
 **1:** 
