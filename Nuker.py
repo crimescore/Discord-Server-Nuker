@@ -1,5 +1,5 @@
-#bot created by 6soulz
-#please do not change the name and claim that the file is yours.
+#Bot created by PurpleProfessional
+#Please do not change the name and claim that the file is yours.
 
 import discord, os, time, logging, json, base64
 from discord.ext import commands
