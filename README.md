@@ -7,4 +7,5 @@ Prefix: , <br>
 **4.** This will nuke the server.<br>
 **5.** Have fun!<br>
 <br>
+U have to put your bot token at the bottom where it says "TOKEN HERE"<br>
 **I AM NOT RESPONSIBLE FOR HOW YOU USE OF THIS NUKER!**
